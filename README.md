@@ -1,4 +1,4 @@
-htt![R Programming](https://img.shields.io/badge/R%20programming-3.6.3-blue)
+[R Programming](https://img.shields.io/badge/R%20programming-3.6.3-blue)
 
 # Machine Learning With R
 
